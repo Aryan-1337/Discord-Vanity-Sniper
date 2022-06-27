@@ -1,1 +1,1 @@
-"# Discord-Vanity-Sniper" 
+# Discord-Vanity-Sniper
