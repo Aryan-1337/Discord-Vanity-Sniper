@@ -12,7 +12,9 @@ python main.py
 
 # What To Do?
 
-:star: Star The Repo If You Liked It.\nYou Can Contribute If You Want.
+:star: Star The Repo If You Liked It.
+
+You Can Contribute If You Want.
 
 # Contact
 
