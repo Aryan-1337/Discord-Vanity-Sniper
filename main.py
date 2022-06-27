@@ -64,7 +64,7 @@ async def vanity_checker():
         if checker.status == 404:
           await vanity_sniper()
         else:
-          print(f"{Fore.RED}[>]{Fore.RESET} Aryan.#1337 | Vanity Not Available")
+          print(f"{Fore.RED}[-]{Fore.RESET} Aryan.#1337 | Vanity Not Available")
 
 
 
